@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\hello_nvrhi\hail_eris.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\hello_nvrhi\vk_errors.hpp" />
+  </ItemGroup>
+</Project>

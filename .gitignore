@@ -1,0 +1,4 @@
+windows/.vs
+windows/x64
+*.exe
+*.pdb

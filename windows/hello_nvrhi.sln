@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hello_nvrhi", "hello_nvrhi.vcxproj", "{8AC6E120-BAF4-4D01-9056-958078167B82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AC6E120-BAF4-4D01-9056-958078167B82}.Debug|x64.ActiveCfg = Debug|x64
+		{8AC6E120-BAF4-4D01-9056-958078167B82}.Debug|x64.Build.0 = Debug|x64
+		{8AC6E120-BAF4-4D01-9056-958078167B82}.Release|x64.ActiveCfg = Release|x64
+		{8AC6E120-BAF4-4D01-9056-958078167B82}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCBDBA0B-CD2E-49E7-8F8A-04EBB3F9B6E5}
+	EndGlobalSection
+EndGlobal
